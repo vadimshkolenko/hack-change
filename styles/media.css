@@ -1,0 +1,193 @@
+@media screen and (min-width: 0) and (max-width: 768px) {
+    .introduction {
+        padding-top: 136px;
+    }
+
+    .introduction__logo {
+        width: 300px;
+    }
+
+    .introduction__date {
+        margin-bottom: 80px;
+    }
+
+    .introduction__support {
+        margin-bottom: 63px;
+    }
+
+    .introduction-support__title {
+        font-size: 20px;
+        margin-bottom: 33px;
+    }
+
+    .introduction-support__partners {
+        flex-direction: column;
+        align-items: center;
+        min-width: 300px;
+    }
+
+    .introduction-support__sberbank {
+        width: 180px;
+        padding-bottom: 25px;
+    }
+
+    .introduction-support__beeline {
+        width: 85px;
+        padding-bottom: 25px;
+    }
+
+    .introduction-support__x5 {
+        width: 218px;
+    }
+
+    .task {
+        padding-top: 47px;
+    }
+
+    .task__title {
+        margin-bottom: 33px;
+    }
+
+    .task__text {
+        width: 90%;
+        margin-bottom: 50px;
+    }
+
+    .troubles {
+        height: auto;
+        position: relative;
+    }
+
+    .troubles__trouble {
+        padding-top: 80px;
+        height: auto;
+    }
+
+    .troubles__title {
+        text-align: center;
+    }
+
+    .troubles__description {
+        width: 90%;
+        padding-bottom: 40px;
+    }
+
+    .troubles__description-paragraph-1 {
+        margin-bottom: 25px;
+    }
+
+    .trouble-number-1__departmens {
+        margin-bottom: 40px;
+    }
+
+    .trouble-number-1__departmen {
+        margin: 25px;
+    }
+
+    .troubles-number-2__microservice {
+        margin: 0 auto 50px auto;
+        width: 95%;
+    }
+
+    .troubles-number-2__microservice img {
+        width: 100%;
+    }
+
+    /* Slider styles */
+    .arrow {
+        display: none;
+    }
+
+    /*  */
+
+    .technologies {
+        padding-top: 56px;
+    }
+
+    .technologies__title {
+        text-align: center;
+    }
+
+    .technologies__icons img {
+        margin: 35px 96px;
+    }
+
+    .technologies-icons__react {
+        width: 154px;
+    }
+
+    .technologies-icons__redux {
+        width: 120px;
+    }
+
+    .technologies-icons__mysql {
+        width: 243px;
+    }
+
+    .technologies-icons__nodejs {
+        width: 243px;
+    }
+
+    .technologies-icons__adobe-xd {
+        width: 108px;
+    }
+
+    .technologies-icons__github {
+        width: 246px;
+    }
+
+    .team {
+        padding-top: 56px;
+    }
+
+    .team__title {
+        margin-bottom: 60px;
+    }
+
+    .team__site {
+        margin-bottom: 55px;
+    }
+
+    .memories {
+        padding-bottom: 20px;
+    }
+
+    .memories__gallery {
+        justify-content: center;
+    }
+
+    .memories__image {
+        padding: 0 15px;
+        padding-bottom: 30px;
+        max-width: 300px;
+    }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1600px) {
+    .troubles__title {
+        margin-bottom: 43px;
+    }
+
+    .troubles__title span {
+        font-weight: 200;
+    }
+
+    .troubles__description {
+        margin-bottom: 60px;
+    }
+
+    .trouble-number-1__departmens {
+        margin-bottom: 60px;
+    }
+
+    .trouble-number-1-departmen__title {
+        color: black;
+        font-weight: 200;
+        font-size: 13px;
+        padding-top: 12px;
+    }
+
+    .troubles-number-2__microservice {
+        margin-bottom: 60px;
+    }
+}
